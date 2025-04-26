@@ -36,43 +36,47 @@ Driven by a passion for leveraging technology to solve real-world problems, I’
 
 ---
 
-## 🛠️ Toolbox
+## 🛠 My Toolbox
 
-<details>
-<summary>🖥️ Development & Project Management</summary>
+---
 
-- Agile/Scrum · Jira · MS Project · Basecamp · GitHub Actions · Docker 
-</details>
+### Development & Project Management
+<p align="left">
+  <img src="https://cdn.simpleicons.org/Jira/0052CC" alt="Jira" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/GitHubActions/2088FF" alt="GitHub Actions" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/Docker/2496ED" alt="Docker" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/MicrosoftProject/68217A" alt="MS Project" width="30" height="30" />
+</p>
 
-<details>
-<summary>💻 Programming & Databases</summary>
+### Programming & Databases
+<p align="left">
+  <img src="https://cdn.simpleicons.org/Python/3776AB" alt="Python" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/PHP/777BB4" alt="PHP" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/PostgreSQL/336791" alt="PostgreSQL" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/MySQL/4479A1" alt="MySQL" width="30" height="30" />
+</p>
 
-- Python · PHP · SQL (PostgreSQL, MySQL) · Bash · FastAPI · Django · Flask 
-</details>
+### Systems & Infrastructure
+<p align="left">
+  <img src="https://cdn.simpleicons.org/Ubuntu/E95420" alt="Ubuntu" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/Linux/000000" alt="Linux" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/Ansible/EE0000" alt="Ansible" width="30" height="30" />
+</p>
 
-<details>
-<summary>🖧 Systems & Infrastructure</summary>
+### AI & Data Science
+<p align="left">
+  <img src="https://cdn.simpleicons.org/TensorFlow/FF6F00" alt="TensorFlow" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/PyTorch/EE4C2C" alt="PyTorch" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/scikit-learn/F7931E" alt="scikit-learn" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/MLflow/FCD000" alt="MLflow" width="30" height="30" />
+</p>
 
-- Linux (Ubuntu, CentOS) · Networking · Ubuntu Server · Firewall & Security  
-</details>
-
-<details>
-<summary>🤖 AI & Data Science</summary>
-
-- Deep Learning (TensorFlow, PyTorch) · NLP · Computer Vision · scikit-learn · MLflow  
-</details>
-
-<details>
-<summary>🎯 Project & Research Skills</summary>
-
-- Requirements Gathering · Stakeholder Management · Risk Mitigation · Scholarly Writing · Data Analysis  
-</details>
-
-<details>
-<summary>🌐 Languages</summary>
-
-- English · Amharic · Afaan Oromo  
-</details>
+### Research & Project Skills
+<p align="left">
+  <img src="https://cdn.simpleicons.org/Git/F05032" alt="Git" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/Markdown/000000" alt="Markdown" width="30" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/LaTeX/008080" alt="LaTeX" width="30" height="30" />
+</p>
 
 ---
 
