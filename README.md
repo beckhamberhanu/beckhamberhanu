@@ -12,11 +12,11 @@ Driven by a passion for leveraging technology to solve real-world problems, I’
 
 ## 🚀 Core Competencies
 
-- **Full-Stack & DevOps**: CI/CD, containerization, automation  
 - **AI & Data Science**: Python, TensorFlow, PyTorch, scikit-learn, MLflow  
 - **Research & Innovation**: Data pipeline design, model prototyping, academic publications  
 - **Project Management**: Agile/Scrum, stakeholder management, strategic alignment  
 - **Systems & Infrastructure**: Linux administration, network design, cloud deployment  
+- **Full-Stack & DevOps**: CI/CD, containerization, automation
 
 ---
 
