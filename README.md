@@ -32,7 +32,7 @@ Driven by a passion for leveraging technology to solve real-world problems, I’
 ## 🤝 Let’s Connect
 
 - [LinkedIn](https://linkedin.com/in/beckhamberhanu)  
-- [GitHub](https://github.com/beckhamberhanu)  
+- [X](https://x.com/bbmscreen)
 
 ---
 
