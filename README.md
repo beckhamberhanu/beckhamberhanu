@@ -1,8 +1,8 @@
 # Hi 👋, I’m Beckham Berhanu
 
-**IT Project Manager | System Engineer | AI & Research Expert**
+**Technology Project Manager | AI × Organizations | Research**
 
-Driven by a passion for leveraging technology to solve real-world problems, I’ve led infrastructure modernizations, software builds, and AI/data-driven research projects across diverse sectors.
+I want to study how AI is changing organizations in the Global South. My background in systems engineering and machine learning informs the computational methods I bring to organizational questions.
 
 📍 Based in Addis Ababa, Ethiopia  
 🌐 [Portfolio](https://beckhamberhanu.github.io/)  
@@ -20,12 +20,16 @@ Driven by a passion for leveraging technology to solve real-world problems, I’
 
 ---
 
-## 🔭 What I’m Up To
+## 🔭 Research Focus
+How AI changes the way organizations coordinate, operate, and behave and whether those effects depend on organizational and resource conditions. Most of what we know about organizations comes from Western, high-resource environments. I want to study the ones that don't. I also want to understand how organizations can adopt AI in ways that augment human capabilities and improve how they work.
 
-- **Leading** end-to-end technology projects—from data-center upgrades to AI platforms  
-- **Building** scalable ML pipelines and deploying models in production  
-- **Conducting** research in deep learning and data science for high-impact applications  
-- **Upskilling** continuously through advanced courses and collaborative initiatives  
+---
+
+## 📄 Selected Work
+- **Published:** Effects of Corporate Social Responsibility 
+  on Project Performance — Outstanding Research Award
+- **Under Review:** Application Layer DDoS Classification 
+  Using Deep Learning (PLOS ONE)
 
 ---
 
